@@ -1,0 +1,14 @@
+F:\C#\E0103\bin\Debug\net8.0\E0103.exe
+F:\C#\E0103\bin\Debug\net8.0\E0103.deps.json
+F:\C#\E0103\bin\Debug\net8.0\E0103.runtimeconfig.json
+F:\C#\E0103\bin\Debug\net8.0\E0103.dll
+F:\C#\E0103\bin\Debug\net8.0\E0103.pdb
+F:\C#\E0103\obj\Debug\net8.0\E0103.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\E0103\obj\Debug\net8.0\E0103.AssemblyInfoInputs.cache
+F:\C#\E0103\obj\Debug\net8.0\E0103.AssemblyInfo.cs
+F:\C#\E0103\obj\Debug\net8.0\E0103.csproj.CoreCompileInputs.cache
+F:\C#\E0103\obj\Debug\net8.0\E0103.dll
+F:\C#\E0103\obj\Debug\net8.0\refint\E0103.dll
+F:\C#\E0103\obj\Debug\net8.0\E0103.pdb
+F:\C#\E0103\obj\Debug\net8.0\E0103.genruntimeconfig.cache
+F:\C#\E0103\obj\Debug\net8.0\ref\E0103.dll
