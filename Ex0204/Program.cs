@@ -11,9 +11,9 @@ namespace Ex0204
     {
         static void Main(string[] args)
         {
-            Write("請輸入你的名字:");
-            string name = ReadLine();
-            WriteLine($"Good Day! {name}");
+            Write("菜鳥工程師請介紹你自己:");
+            string info = ReadLine();
+            WriteLine($"Good Day! {info}");
         }
     }
 }

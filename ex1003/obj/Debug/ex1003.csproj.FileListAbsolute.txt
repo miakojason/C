@@ -1,0 +1,10 @@
+F:\C#\ex1003\obj\Debug\ex1003.csproj.AssemblyReference.cache
+F:\C#\ex1003\obj\Debug\ex1003.Form1.resources
+F:\C#\ex1003\obj\Debug\ex1003.Properties.Resources.resources
+F:\C#\ex1003\obj\Debug\ex1003.csproj.GenerateResource.cache
+F:\C#\ex1003\obj\Debug\ex1003.csproj.CoreCompileInputs.cache
+F:\C#\ex1003\bin\Debug\ex1003.exe.config
+F:\C#\ex1003\bin\Debug\ex1003.exe
+F:\C#\ex1003\bin\Debug\ex1003.pdb
+F:\C#\ex1003\obj\Debug\ex1003.exe
+F:\C#\ex1003\obj\Debug\ex1003.pdb
