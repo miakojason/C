@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\C#\\",
+  "WorkspaceRootPath": "F:\\C#\\ex1004\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004\\ex1004.csproj|f:\\c#\\ex1004\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004\\ex1004.csproj|solutionrelative:ex1004\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004.csproj|f:\\c#\\ex1004\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004\\ex1004.csproj|f:\\c#\\ex1004\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004\\ex1004.csproj|solutionrelative:ex1004\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004.csproj|f:\\c#\\ex1004\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,12 +29,12 @@
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\C#\\ex1004\\Form1.cs",
-              "RelativeDocumentMoniker": "ex1004\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "F:\\C#\\ex1004\\Form1.cs",
-              "RelativeToolTip": "ex1004\\Form1.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAAABAAAA",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCYAAACCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T09:29:46.788Z",
+              "WhenOpened": "2024-05-11T10:38:32.877Z",
               "EditorCaption": ""
             },
             {
@@ -42,11 +42,11 @@
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "F:\\C#\\ex1004\\Form1.cs",
-              "RelativeDocumentMoniker": "ex1004\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "F:\\C#\\ex1004\\Form1.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "ex1004\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T09:29:31.661Z",
+              "WhenOpened": "2024-05-11T10:38:31.364Z",
               "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]

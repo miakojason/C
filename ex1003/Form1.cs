@@ -41,5 +41,9 @@ namespace ex1003
             frmdialog.ShowDialog(); // 顯示對話框表單
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Close(); // 關閉主表單
+        }
     }
 }
