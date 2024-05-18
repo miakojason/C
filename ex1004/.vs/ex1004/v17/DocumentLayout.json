@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004.csproj|f:\\c#\\ex1004\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004.csproj|F:\\C#\\ex1004\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8060C03B-B42A-41F1-B285-5517B89ACF36}|ex1004.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "F:\\C#\\ex1004\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAqwCYAAACCAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T10:38:32.877Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "ToolTip": "F:\\C#\\ex1004\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T10:38:31.364Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2024-05-11T10:38:31.364Z"
             }
           ]
         }
