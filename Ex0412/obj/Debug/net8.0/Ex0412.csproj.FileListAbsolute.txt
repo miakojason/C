@@ -1,0 +1,15 @@
+F:\C#\Ex0412\bin\Debug\net8.0\Ex0412.exe
+F:\C#\Ex0412\bin\Debug\net8.0\Ex0412.deps.json
+F:\C#\Ex0412\bin\Debug\net8.0\Ex0412.runtimeconfig.json
+F:\C#\Ex0412\bin\Debug\net8.0\Ex0412.dll
+F:\C#\Ex0412\bin\Debug\net8.0\Ex0412.pdb
+F:\C#\Ex0412\obj\Debug\net8.0\Ex0412.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Ex0412\obj\Debug\net8.0\Ex0412.AssemblyInfoInputs.cache
+F:\C#\Ex0412\obj\Debug\net8.0\Ex0412.AssemblyInfo.cs
+F:\C#\Ex0412\obj\Debug\net8.0\Ex0412.csproj.CoreCompileInputs.cache
+F:\C#\Ex0412\obj\Debug\net8.0\Ex0412.sourcelink.json
+F:\C#\Ex0412\obj\Debug\net8.0\Ex0412.dll
+F:\C#\Ex0412\obj\Debug\net8.0\refint\Ex0412.dll
+F:\C#\Ex0412\obj\Debug\net8.0\Ex0412.pdb
+F:\C#\Ex0412\obj\Debug\net8.0\Ex0412.genruntimeconfig.cache
+F:\C#\Ex0412\obj\Debug\net8.0\ref\Ex0412.dll
