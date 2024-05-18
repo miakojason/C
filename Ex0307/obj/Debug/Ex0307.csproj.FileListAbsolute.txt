@@ -1,0 +1,7 @@
+F:\C#\Ex0307\bin\Debug\Ex0307.exe.config
+F:\C#\Ex0307\bin\Debug\Ex0307.exe
+F:\C#\Ex0307\bin\Debug\Ex0307.pdb
+F:\C#\Ex0307\obj\Debug\Ex0307.csproj.AssemblyReference.cache
+F:\C#\Ex0307\obj\Debug\Ex0307.csproj.CoreCompileInputs.cache
+F:\C#\Ex0307\obj\Debug\Ex0307.exe
+F:\C#\Ex0307\obj\Debug\Ex0307.pdb
